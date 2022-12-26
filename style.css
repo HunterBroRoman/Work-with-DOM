@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+.autos {
+    display: flex;
+}
+.auto-card {
+    margin-left: 20px;
+    padding: 12px;
+    background-color:aliceblue;
+    width: 200px;
+    height: 190px;
+}
